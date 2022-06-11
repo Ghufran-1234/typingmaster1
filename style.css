@@ -1,0 +1,55 @@
+.fn{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 20%;
+    padding-top: 8%;
+}
+.invisible{
+    display: none;
+}
+.container-fluid
+{
+    padding: 0 10%;
+}
+.startButton
+{
+    margin-left: 20%;
+}
+.para
+{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.im
+{
+    margin-top: 4%;
+    margin-left: 6%;
+    width: 550px;
+}
+.name
+{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.cen
+{
+    text-align: center;
+}
+.column {
+    flex: 49%;
+}
+.card {
+    margin: 3px;
+    padding: 3px;
+    border: 1px solid #000;
+    background: #f5f5f5;
+}
+.prompt {
+    font-family: monospace;
+    padding: 5px;
+    color: #999;
+    background-color: #f9f9f9;
+    min-height: 80px;
+    border: 1px solid silver;
+    line-height: 125%;
+    font-size: 16px;
+}
